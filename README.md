@@ -1,2 +1,2 @@
-# Wowhead.py-search
-Search on wowhead from windows RUN
+# Wowhead search
+Quickly search on wowhead from windows RUN
