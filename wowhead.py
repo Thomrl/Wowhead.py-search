@@ -2,10 +2,6 @@
 #Search on wowhead from "run" (start + r)
 import sys, webbrowser, pyperclip
 
-#Get input from RUN (start + r)
-sys.argv
-print(sys.argv)
-
 #Check length if only 1 paste whatever is in clipboard, else you've probably pasted it in or written something youself
 if len(sys.argv) > 1:
     search = " ".join(sys.argv[1:]) #takes index 1 and after and put into search
